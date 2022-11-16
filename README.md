@@ -6,10 +6,10 @@ I am a Full Stack Software Developer with experience in Javascript, React, Node 
 I believe that accessible, inclusive tech is a powerful tool and a crucial goal. My values-driven work and empathetic communication enable me to thrive on teams both large and small. I love collaborating with dedicated, diverse teams.
 
 ### **Tech Stack**
- * Back-End: Node.js, Express
- * Front-End: React, jQuery
- * Databases: PostgreSQL
- * Tools: Slack, Github, VScode, Heroku, Netlify
- * Testing Suites: Jest, QUnit
- * Dev Practices: TDD, Pair/Mob Programming, Scrum
+ * Front-End: React, Javascript, jQuery, HTML/CSS, Chakra-UI
+ * Back-End: Node.js, Express, Mongoose
+ * Databases: PostgreSQL, MongoDB, Supabase
+ * Tools: Slack, Github, Postman, Thunder Client, VScode, Heroku, Netlify
+ * Testing Suites: Jest, QUnit, React Testing Library
+ * Dev Practices: TDD, Pair/Mob Programming, Agile Methodologies, RESTful APIs
 
